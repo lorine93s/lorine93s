@@ -95,38 +95,6 @@
         alt="NextJS" />
       <br />NextJS
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=nodejs"
-        width="65"
-        height="65"
-        alt="NodeJS" />
-      <br />NodeJS
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=express"
-        width="65"
-        height="65"
-        alt="Express" />
-      <br />Express
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=mongodb"
-        width="65"
-        height="65"
-        alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />MySQL
-    </td>
   </tr>
   <tr>
     <td align="center" width="128">
@@ -221,6 +189,38 @@
     </td>
     <td align="center" width="128">
       <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://techstack-generator.vercel.app/docker-icon.svg"
         alt="icon"
         width="65"
@@ -234,9 +234,9 @@
 
 <p align="center">
   <a href="https://github.com/lorine93s?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lorine93s&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="100%" alt="@lorine93s's github-readme-stats-one-bice"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lorine93s&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="200px" alt="@lorine93s's github-readme-stats-one-bice"/>
   </a>
   <a href="https://github.com/lorine93s?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BTCoin23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" height="100%" alt="@lorine93s's github-readme-streak-stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BTCoin23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" height="200px" alt="@lorine93s's github-readme-streak-stats"/>
   </a>
 </p>
