@@ -22,7 +22,6 @@
 <h2 align="center">fullstack developer & smart contract & web3 developer</h2>
 
  💻 Tech Stack:
-###
 <br clear="both" />
 
 <table align="center">
