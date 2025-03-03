@@ -22,14 +22,47 @@
 <h2 align="center">fullstack developer & smart contract & web3 developer</h2>
 
 ###
-    # 💻 Tech Stack:
+ 💻 Tech Stack:
 <br clear="both" />
+
 ###
 
 <br clear="both" />
 
 <table align="center">
   <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=go"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />Rust
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=ruby"
+        width="65"
+        height="65"
+        alt="Ruby" />
+      <br />Solidity
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="65"
+        height="65"
+        alt="PostgreSQL" />
+      <br />Move
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=fastapi"
+        width="65"
+        height="65"
+        alt="FastAPI" />
+      <br />Bitcoinjs
+    </td>
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/js-icon.svg"
@@ -185,38 +218,6 @@
         height="65"
         alt="Git" />
       <br />Git
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=go"
-        width="65"
-        height="65"
-        alt="MongoDB" />
-      <br />Rust
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=ruby"
-        width="65"
-        height="65"
-        alt="Ruby" />
-      <br />Solidity
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        width="65"
-        height="65"
-        alt="PostgreSQL" />
-      <br />Move
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=fastapi"
-        width="65"
-        height="65"
-        alt="FastAPI" />
-      <br />Bitcoinjs
     </td>
     <td align="center" width="128">
       <img
