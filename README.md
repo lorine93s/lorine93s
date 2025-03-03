@@ -1,10 +1,10 @@
 ###
 
-<h1 align="center">Full Stack & Blockchain(Sui, Bitcoin, EVM, Solana) Engineer</h1>
+<!-- <h1 align="center">Full Stack & Blockchain( Sui, Bitcoin, EVM, Solana ) Engineer</h1> -->
 
-###
+<!-- ### -->
 
-<br clear="both" />
+<!-- <br clear="both" /> -->
 
 <!-- <div align="center">
   <img
@@ -17,10 +17,13 @@
     alt="languages graph" />
 </div> -->
 
+<!-- ### -->
+
+<h2 align="center">fullstack developer & smart contract & web3 developer</h2>
+
 ###
-
-<h2 align="center">Fullstack developer & Smart contract & Web3 developer</h2>
-
+    # 💻 Tech Stack:
+<br clear="both" />
 ###
 
 <br clear="both" />
