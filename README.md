@@ -4,26 +4,7 @@
 
 <!-- ### -->
 
-<!-- <br clear="both" /> -->
-
-<!-- <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lorine93s&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
-    width="54%"
-    alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
-    width="45%"
-    alt="languages graph" />
-</div> -->
-
-<!-- ### -->
-
-<h2 align="center">fullstack developer & smart contract & web3 developer</h2>
-
- 💻 Tech Stack:
-<br clear="both" />
-
+<h2 align="center">Full stack & Smart contract & Web3 Engineer</h2>
 <table align="center">
   <tr>
     <td align="center" width="128">
