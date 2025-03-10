@@ -1,4 +1,3 @@
-<h2 align="center">Full stack & Smart contract & Web3 Engineer</h2>
 <table align="center">
   <tr>
     <td align="center" width="128">
