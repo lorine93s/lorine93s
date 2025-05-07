@@ -2,6 +2,14 @@
   <tr>
     <td align="center" width="128">
       <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="65"
+        height="65"
+        alt="PostgreSQL" />
+      <br />Move
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://skillicons.dev/icons?i=go"
         width="65"
         height="65"
@@ -15,14 +23,6 @@
         height="65"
         alt="Ruby" />
       <br />Solidity
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        width="65"
-        height="65"
-        alt="PostgreSQL" />
-      <br />Move
     </td>
     <td align="center" width="128">
       <img
