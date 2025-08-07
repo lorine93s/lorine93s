@@ -1,202 +1,74 @@
-<table align="center">
-  <tr>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        width="65"
-        height="65"
-        alt="PostgreSQL" />
-      <br />Move
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=go"
-        width="65"
-        height="65"
-        alt="MongoDB" />
-      <br />Rust
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=ruby"
-        width="65"
-        height="65"
-        alt="Ruby" />
-      <br />Solidity
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=fastapi"
-        width="65"
-        height="65"
-        alt="FastAPI" />
-      <br />Bitcoinjs
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/js-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/ts-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/react-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />React
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=nextjs"
-        width="65"
-        height="65"
-        alt="NextJS" />
-      <br />NextJS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=html"
-        width="65"
-        height="65"
-        alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/sass-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Sass
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=tailwind"
-        width="65"
-        height="65"
-        alt="tailwind" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=bootstrap"
-        width="65"
-        height="65"
-        alt="bootstrap" />
-        <br />Bootstrap5.0
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=jquery"
-        width="65"
-        height="65"
-        alt="jQuery" />
-      <br />jQuery
-    </td>
-    <td align="center" width="128">
-      <img
-      src="https://skillicons.dev/icons?i=php"
-      width="65"
-      height="65"
-        alt="PHP" />
-      <br />PHP
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/webpack-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Webpack
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=vscode"
-        width="65"
-        height="65"
-        alt="VsCode" />
-      <br />VsCode
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/aws-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />AWS
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/github-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Github
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-        width="65"
-        height="65"
-        alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=nodejs"
-        width="65"
-        height="65"
-        alt="NodeJS" />
-      <br />NodeJS
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=express"
-        width="65"
-        height="65"
-        alt="Express" />
-      <br />Express
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=mongodb"
-        width="65"
-        height="65"
-        alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />MySQL
-    </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/docker-icon.svg"
-        alt="icon"
-        width="65"
-        height="65" />
-      <br />Aptos
-    </td>
-  </tr>
-</table>
+# 👋 Hi, I'm lorine93s
 
-####
+## 🧠 Summary
+
+**Senior Full-Stack & Web3 Developer | Solana & Sui Specialist | Trading Bot Architect**
+
+With over **8 years of full-stack experience** and **5 years in blockchain**, I specialize in designing and building scalable, real-time Web3 applications — from **automated trading systems** to **on-chain gaming dApps**.
+
+I've contributed to a diverse range of projects including:
+
+- 🧠 **DeFi trading platforms**
+- 🎰 **On-chain Casino games** (e.g., jackpot, dice, flipo)
+- 🎮 **NFT gaming ecosystems**
+- 🤖 **Custom trading bots**: copy-trading, sniping, bundler, volume-based, arbitrage & MEV
+
+I bring strong **frontend skills** (React, Next.js, Angular), solid **backend development** (Python, Node.js, Java, C#), and DevOps/AI integration capabilities.
+
+## 🔧 Tech Stack
+
+### 🧱 Web3 & Blockchain
+- **Solana**: Rust smart contracts, Anchor framework, on-chain randomness (VRF)
+- **Sui**: Move smart contracts, object-based architecture, on-chain data verification
+- **Protocols**: Raydium, Jupiter, Bonkfun, pump.fun
+- **Bots**: Arbitrage, Sniping, Copy Trading, MEV, Token Launch, Whale Tracker ...
+
+### 💻 Frontend
+- **React**, **Next.js**, **Angular**, **Tailwind CSS**
+- WebSocket-powered dashboards, real-time trading interfaces
+
+### 🔙 Backend
+- **Node.js**, **Python**, **Java**, **C#**
+- REST & GraphQL APIs, authentication (JWT, OAuth2)
+- **PostgreSQL**, **MongoDB**, **Redis**, **The Graph**
+
+### ☁️ DevOps & Infrastructure
+- **Docker**, **CI/CD** (GitHub Actions, Vercel)
+- **WebSockets**, **Cron Jobs**, **BullMQ**
+- Infrastructure for scalable, fault-tolerant systems
+
+### 🧠 AI & Automation
+- Backend processing pipelines for LLM-based job requests
+- Real-time event processing, generation, and delivery
+
+## 🧪 Notable Projects
+
+### 🔬 [Suithetic](https://www.suithetic.com/) – Sui-based Synthetic Data Marketplace for Agentic AI Training
+- Developed Move smart contracts for secure synthetic data
+- React + Next.js frontend with Sui wallet integration
+- WebSocket-based event listening & job tracking
+
+### ⚡ Solana Trading Bot Suite
+- Built high-frequency bots for DeFi protocols (Jupiter, Raydium, etc.)
+- Telegram/Discord integration for real-time alerts
+- On-chain volume tracking, sniping logic, bundler automation
+
+### 🎲 Solana Casino DApps
+- Rust contracts for fair games (jackpot, dice, flipo)
+- On-chain randomness via VRF
+- Real-time game state UIs with React + wallet auth
+
+### 🌊 DeFi Frontends
+- Created pool, swap, and liquidity interfaces for Balancer-like platforms
+- Wallet integration (MetaMask, WalletConnect)
+- Token metrics, pool analytics, and APR charts
+
+## 🗂️ Certifications & Awards
+- 🏅 Engineering Excellence Award – Borcelle Technologie
+- 🎓 PMP Certified | PE License Holder
+
+---
+
+> 🔗 Open to full-time, and collaboration opportunities in Web3, DeFi, and high-performance backend systems.  
+> 📩 Feel free to connect or reach out me on Telegram(@lorine93s)!
+
