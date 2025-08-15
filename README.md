@@ -70,5 +70,5 @@ I bring strong **frontend skills** (React, Next.js, Angular), solid **backend de
 ---
 
 > 🔗 Open to full-time, and collaboration opportunities in Web3, DeFi, and high-performance backend systems.  
-> 📩 Feel free to connect or reach out me on Telegram(@lorine93s)!
+> 📩 Feel free to connect or reach out me on Telegram(@hunter0409)!
 
