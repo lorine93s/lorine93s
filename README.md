@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Aram Petrosyan</h1>
 <p align="center">
-  Full‑Stack • Blockchain • AI Engineer
+  Senior Full‑Stack • Blockchain • AI Engineer
 </p>
 
 <p align="center">
@@ -14,9 +14,6 @@
   <a href="https://twitter.com/kakamajo_btc">
     <img src="https://img.shields.io/badge/Twitter-@kakamajo__btc-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/loring93s">
-    <img src="https://img.shields.io/github/followers/loring93s?label=Follow&style=flat&color=0ea5e9" />
-  </a>
 </p>
 
 ---
@@ -25,12 +22,6 @@
 
 I’m a senior Web3 engineer and full‑stack developer focused on high‑impact blockchain products and AI‑augmented experiences. I ship secure smart‑contract systems, performant dApps, and polished UIs with a strong emphasis on reliability, scalability, and developer ergonomics.
 
-- Building with Next.js, React, TypeScript, Tailwind, Radix, shadcn/ui
-- Deep Web3 experience across chains and ecosystems; robust dApp UX patterns
-- AI integrations that enhance on‑chain workflows, analytics, and automation
-- Pragmatic delivery with strong testing, docs, and maintainable architectures
-
----
 
 ## Web3 and AI focus
 
@@ -38,19 +29,6 @@ I’m a senior Web3 engineer and full‑stack developer focused on high‑impact
 - Smart‑contract languages: Rust, Move, Solidity
 - Product areas: DeFi, DAO, perpetuals, launchpads, gaming (P2E/NFT), trading infra
 - AI: on‑chain agents, data pipelines, strategy automation, conversational tooling
-
-I’ve built a wide range of Web3 experiences from the protocol layer up to rich front‑ends: secure contract systems, gas/perf‑aware dApps, and pro‑grade dashboards with crisp micro‑interactions.
-
----
-
-## Highlights
-
-- End‑to‑end product delivery: smart contracts, APIs, front‑end, CI/CD, deployments
-- Secure contract design, audits feedback resolution, bug‑bounty readiness
-- Pro UI polish with purposeful animations and excellent perceived performance
-- Accessibility, responsiveness, and DX‑first component/system architecture
-
----
 
 ## Tech stack
 
@@ -68,7 +46,6 @@ I’ve built a wide range of Web3 experiences from the protocol layer up to rich
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat" />
   <img src="https://img.shields.io/badge/Anchor-262626?style=flat" />
   <img src="https://img.shields.io/badge/Metaplex-512DA8?style=flat" />
-  <img src="https://img.shields.io/badge/WalletConnect-338AF3?style=flat" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 
@@ -92,7 +69,6 @@ I’ve built a wide range of Web3 experiences from the protocol layer up to rich
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
----
 
 ## Selected work
 
@@ -105,7 +81,6 @@ I’ve built a wide range of Web3 experiences from the protocol layer up to rich
 - Solana trading bots: sniper, bundler, volume/market‑making; strategy automation
 - Web3 AI agents for monitoring, execution, and conversational controls over dApps
 
----
 
 ## Experience snapshots
 
@@ -115,22 +90,3 @@ I’ve built a wide range of Web3 experiences from the protocol layer up to rich
 - Delivered AI agents and analytics that augment on‑chain decisions and ops
 - Optimized performance: code‑splitting, caching, streaming, and SSR/ISR strategies
 
----
-
-
-<!-- Optional: GitHub stats cards (enable if you like stats on your profile) -->
-<p align="center">
-  <a href="https://github.com/loring93s">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=loring93s&show_icons=true&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/loring93s">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=loring93s&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-<!--
-Notes:
-- Replace [add-your-portfolio-link-here] with your live site.
-- Swap selected project links with public repos or case studies.
-- You can hide the stats section if you prefer a cleaner profile.
--->
