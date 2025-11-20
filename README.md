@@ -1,8 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Aram Petrosyan</h1>
-<p align="center">
+<h2 align="center">
   Senior Full‑Stack • Blockchain • AI Engineer
-</p>
+</h2>
 
 <p align="center">
   <a href="mailto:xsui46941@gmail.com">
@@ -16,7 +15,6 @@
   </a>
 </p>
 
----
 
 ## About me
 
