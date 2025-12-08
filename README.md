@@ -58,6 +58,7 @@ I’m a senior Web3 engineer and full‑stack developer focused on high‑impact
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-3c873a?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-0ea5e9?style=flat" />
