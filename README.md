@@ -4,11 +4,11 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:xsui46941@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xsui46941%40gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:milosk920125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-milosk920125@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/lorine93s">
-    <img src="https://img.shields.io/badge/Telegram-@lorine93s-2AABEE?style=flat&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@lorine93ss-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
   <a href="https://twitter.com/kakamajo_btc">
     <img src="https://img.shields.io/badge/Twitter-@kakamajo__btc-1DA1F2?style=flat&logo=twitter&logoColor=white" />
